@@ -1,3 +1,4 @@
 [submodule "src"]
 	path = src
 	url = https://github.com/steffsas/hub-site
+	branch = V0.1
