@@ -1,4 +1,4 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/steffsas/hub-site
-	branch = V0.1
+	url = [add your git project here]
+	branch = [add your checked out branch here]
