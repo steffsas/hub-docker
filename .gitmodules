@@ -1,2 +1,4 @@
-[add your git project here]
-	branch = [add your checked out branch here]
+# Delete all # and edit path and branch to activate submodule
+#[submodule "<name of submodule>"]
+#   path = [add your git project here]
+#	branch = [add your checked out branch here]
