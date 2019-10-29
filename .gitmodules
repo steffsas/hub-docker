@@ -1,4 +1,2 @@
-[submodule "src"]
-	path = src
-	url = [add your git project here]
+[add your git project here]
 	branch = [add your checked out branch here]
