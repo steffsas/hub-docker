@@ -17,7 +17,9 @@ services:
     links:
       - database
   database:
-    image: mariadb:latest
+    build:
+      context: .
+      dockerfile: dockerfile-database
     restart: always
     volumes:
       - ./mysql:/var/lib/mysql
